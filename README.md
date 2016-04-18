@@ -37,7 +37,7 @@ How to adjust deep learning architectures (temporarily focused on CNN, latter ex
 
    2.1 CNN
    
-       + [Deep Residual Network (Microsoft Research)]
+       + [Deep Residual Network (Microsoft Research)] (http://arxiv.org/pdf/1512.03385v1.pdf)
        
    2.2 LSTM
    
