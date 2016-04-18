@@ -38,6 +38,7 @@ How to adjust deep learning architectures (temporarily focused on CNN, latter ex
 1. Image Caption
 2. Neural Style
 3. Visual Answering System (CNN + LSTM + Attention)
+   + [Video] (http://bittiger.io/classpage/L4SSshXZYH3Qn33Ah)
 
 ## Projects
 
@@ -62,4 +63,5 @@ Ideas based on several resources
 3. Deep Learning and Healthcare
 4. Deep Learning and Finance
 
+## Resources
 
